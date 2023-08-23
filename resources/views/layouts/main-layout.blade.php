@@ -18,8 +18,12 @@
 
 </head>
 
-<body>
-    <main>
+<body class="bg-dark">
+    <header class="py-5 mb-3 bg-warning">
+        <h1>Welcome to Train Station Romano</h1>
+    </header>
+
+    <main class="mx-5">
         @yield('main')
     </main>
 </body>
