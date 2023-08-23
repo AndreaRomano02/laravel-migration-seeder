@@ -16,7 +16,7 @@
                 <th scope="col">Time To Arrive</th>
                 <th scope="col">Time To departure</th>
                 <th scope="col">Train Code</th>
-                <th scope="col">Train Carriage</th>
+                <th scope="col">Number of Train Carriage</th>
                 <th scope="col">IS IN TIME?</th>
                 <th scope="col">IS DELETED?</th>
             </tr>
